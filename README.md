@@ -1,2 +1,2 @@
 # rencana-1
-Berisi rencana kedepannya
+Latihan Github dalam membuat repository baru
